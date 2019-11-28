@@ -1,0 +1,11 @@
+name: Hello
+version: 1.0-SNAPSHOT
+main: rob.plugins.hello.Hello
+api-version: 1.13
+commands:
+  makepool:
+    description: I don't know
+    usage: /<command>
+  makeone:
+    description: dod
+    usage: /<command>
