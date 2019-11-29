@@ -4,8 +4,8 @@ main: rob.plugins.hello.Hello
 api-version: 1.13
 commands:
   makepool:
-    description: I don't know
+    description: Supposed to make a pool, currently makes a diagonal line
     usage: /<command>
   makeone:
-    description: dod
+    description: makes a tnt arch for no reason...
     usage: /<command>
